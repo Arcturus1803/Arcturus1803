@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:21D4FD,100:B721FF&height=190&section=header&render&fontSize=90&text=🚗🚀✈️&fontAlign=70" />
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=introduction&text=HYOBEEN%20&fontSize=30" />
   <div>
-    <div>📚Skills & Still learning...📚</div>
+    <div>📚Skills & Still Learning...📚</div>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
