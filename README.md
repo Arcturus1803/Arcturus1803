@@ -1,7 +1,6 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:21D4FD,100:B721FF&height=190&section=header&render&fontSize=90" />
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=introduction&text=HYOBEEN%20&fontSize=30" />
-
   <div>
     <div>📚Skills & Still learning...📚</div>
     <br/>
@@ -16,26 +15,32 @@
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <br/>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img src="https://img.shields.io/badge/REACT QUERY-20232a.svg?style=for-the-badge&logo=REACT QUERY&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/GRAPHQL-FF4154.svg?style=for-the-badge&logo=GRAPHQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/GRAPHQL-E10098.svg?style=for-the-badge&logo=GRAPHQL&logoColor=white" />
+    <br/>
     <br/>
     <br/>
     <div>👩🏻‍🏫Planning To Learn...👩🏻‍🏫</div>
     <br/>
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-   
-
-
-
-    
-    
+    <br/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <br/>
+    <br/>
+    <br/>
+    <div>🛠Tools🛠</div>
+    <br/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
   </div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyobeen)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,100:B721FF&height=150&section=footer" />
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyobeen&layout=donut)
+  <img src="http://mazandi.herokuapp.com/api?handle=leehyobeen&theme=warm"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,100:B721FF&height=150&section=footer" />
 </div>
