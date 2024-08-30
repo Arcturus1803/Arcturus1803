@@ -42,11 +42,18 @@
     <br/>
     <br/>
     <div>📭Contact📭</div>
+    <a href="https://www.naver.com/">
+    <img src="https://img.shields.io/badge/hyobeen13-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/2hyop_13?igsh=MW45czNxajJ0a3lpbA%3D%3D&utm_source=qr">
+    <img src="https://img.shields.io/badge/2hyop_13-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
     <br/>
     
   </div>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyobeen&layout=donut)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyobeen&show_icons=true&theme=transparent)
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,100:B721FF&height=150&section=footer" />
 </div>
