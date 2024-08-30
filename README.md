@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:21D4FD,100:B721FF&height=190&section=header&render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:21D4FD,100:B721FF&height=190&section=header&render&fontSize=90&text=🚗🚀✈️&fontAlign=70" />
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=introduction&text=HYOBEEN%20&fontSize=30" />
   <div>
     <div>📚Skills & Still learning...📚</div>
@@ -38,9 +38,15 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+    <br/>
+    <br/>
+    <br/>
+    <div>📭Contact📭</div>
+    <br/>
+    
   </div>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyobeen&layout=donut)
-  <img src="http://mazandi.herokuapp.com/api?handle=leehyobeen&theme=warm"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyobeen&show_icons=true&theme=transparent)
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,100:B721FF&height=150&section=footer" />
 </div>
