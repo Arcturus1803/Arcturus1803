@@ -32,27 +32,27 @@
     <br/>
     <br/>
     <br/>
-    <div>🛠Tools🛠</div>
+    <div>
+    <h3>🛠 Tools 🛠</h3>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
+  </div>
     <br/>
-   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-  <br />
     <br/>
-    <br/>
-    <div>📭Contact📭</div>
-    <br/>
+     <div>
+    <h3>📭 Contact 📭</h3>
     <a href="https://www.naver.com/">
-    <img src="https://img.shields.io/badge/hyobeen13-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/2hyop_13?igsh=MW45czNxajJ0a3lpbA%3D%3D&utm_source=qr">
-    <img src="https://img.shields.io/badge/2hyop_13-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-</div>
+      <img src="https://img.shields.io/badge/hyobeen13-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/2hyop_13?igsh=MW45czNxajJ0a3lpbA%3D%3D&utm_source=qr">
+      <img src="https://img.shields.io/badge/2hyop_13-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+  </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leehyobeen&layout=donut)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leehyobeen&show_icons=true&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arcturus1803&layout=donut)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arcturus1803&show_icons=true&theme=transparent)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,100:B721FF&height=150&section=footer" />
 </div>
