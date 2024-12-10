@@ -28,17 +28,9 @@
     <br/>
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    
-    <div>
-    <h3>🛠 Tools 🛠</h3>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> 
-  </div>
     <br/>
     <br/>
-     <div>
+    <br/>
     <h3>📭 Contact 📭</h3>
     <a href="https://www.naver.com/">
       <img src="https://img.shields.io/badge/hyobeen13-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
